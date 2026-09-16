@@ -1,10 +1,10 @@
-# 🚀 Guía Práctica de Markdown para ASIR
+# Guía Práctica de Markdown
 
 > Este documento sirve como ejemplo visual y chuleta de referencia para aprender a estructurar documentación profesional en repositorios de GitHub.
 
 ---
 
-## 📋 Tabla de Contenidos
+## Tabla de Contenidos
 | Sección | Descripción | Nivel de Dificultad |
 | :--- | :--- | :--- |
 | **1. Sintaxis Básica** | Títulos, negritas y cursivas | Fácil |
